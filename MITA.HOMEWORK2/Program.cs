@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Author: Boinskii Alexei
+
+using System;
 using System.Drawing;
 using Exceptions;
 using Model;
